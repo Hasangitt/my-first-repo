@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+p{
+    font-size: x-large;
+    color: blanchedalmond; font-family: 'Times New Roman', Times, serif;
+}
+header{
+    color:azure; font-size: xx-large;
+    background-image: url(images/download.png); background-size:cover; background-repeat: no-repeat; width: 1900px; height: 650px; background-position: center;
+}
+h2{
+    text-align: center; text-decoration: underline wavy; color: rgb(218, 32, 32); 
+}
+.Blog{
+    background-color: rgb(189, 3, 189); box-shadow: 1px 02px 20px greenyellow; padding: 10px; border-radius: 05px; margin: center;
+}
