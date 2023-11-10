@@ -15,3 +15,6 @@ h2{
 .Blog{
     background-color: rgb(189, 3, 189); box-shadow: 1px 02px 20px greenyellow; padding: 10px; border-radius: 05px; margin: center;
 }
+header{
+    width: 100%;
+}
